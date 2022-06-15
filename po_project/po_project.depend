@@ -1,0 +1,239 @@
+# depslib dependency file v1.0
+1637963869 source:c:\users\lukas\desktop\po_project\src\book.cpp
+	"Book.h"
+	<iostream>
+
+1637844089 c:\users\lukas\desktop\po_project\include\book.h
+	<iostream>
+
+1637972016 source:c:\users\lukas\desktop\po_project\src\library.cpp
+	"Library.h"
+	<iostream>
+
+1638664036 c:\users\lukas\desktop\po_project\include\library.h
+	<iostream>
+	<vector>
+	<map>
+	"./PremiumUser.h"
+	"./RegularUser.h"
+	"./Book.h"
+	"./User.h"
+
+1639055046 source:c:\users\lukas\desktop\po_project\src\user.cpp
+	"User.h"
+
+1639055907 c:\users\lukas\desktop\po_project\include\user.h
+	<iostream>
+	<vector>
+	"./BorrowedBook.h"
+
+1636157005 source:c:\users\lukas\desktop\po_project\src\userpremium.cpp
+	"UserPremium.h"
+
+1636157005 c:\users\lukas\desktop\po_project\include\userpremium.h
+
+1639055937 source:c:\users\lukas\desktop\po_project\main.cpp
+	<iostream>
+	"./include/Book.h"
+	"./include/Library.h"
+	"./include/User.h"
+	"./include/RegularUser.h"
+	"./include/PremiumUser.h"
+	"./include/date.h"
+	"./include/Menu.h"
+	"./include/utils.h"
+
+1637969207 source:c:\users\lukas\desktop\po_project\src\borrowedbook.cpp
+	"BorrowedBook.h"
+	"Book.h"
+
+1637969187 c:\users\lukas\desktop\po_project\include\borrowedbook.h
+	"./Book.h"
+	"./date.h"
+
+1636589969 source:c:\users\lukas\desktop\po_project\src\date.cpp
+	"Date.h"
+	<iostream>
+	<ctime>
+
+1637369020 c:\users\lukas\desktop\po_project\include\date.h
+	<cassert>
+	<algorithm>
+	<cctype>
+	<chrono>
+	<climits>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<ctime>
+	<ios>
+	<istream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<ostream>
+	<ratio>
+	<sstream>
+	<stdexcept>
+	<string>
+	<string_view>
+	<utility>
+	<type_traits>
+
+1639055658 c:\users\lukas\desktop\po_project\include\premiumuser.h
+	<iostream>
+	"./User.h"
+	"./Library.h"
+
+1639054952 c:\users\lukas\desktop\po_project\include\regularuser.h
+	<iostream>
+	"./User.h"
+	"./Book.h"
+	"./Library.h"
+	"./date.h"
+
+1639055687 source:c:\users\lukas\desktop\po_project\src\premiumuser.cpp
+	"PremiumUser.h"
+
+1639055161 source:c:\users\lukas\desktop\po_project\src\regularuser.cpp
+	"RegularUser.h"
+
+1638662501 c:\users\lukas\desktop\po_project\include\menu.h
+	<iostream>
+	"./Book.h"
+	"./Library.h"
+	"./User.h"
+	"./RegularUser.h"
+	"./PremiumUser.h"
+	"./date.h"
+	"./Menu.h"
+	"./utils.h"
+	"windows.h"
+	<conio.h>
+
+1638664797 source:c:\users\lukas\desktop\po_project\src\menu.cpp
+	"Menu.h"
+
+1637972794 source:c:\users\lukas\desktop\po_project\src\utils.cpp
+	"utils.h"
+
+1637795141 c:\users\lukas\desktop\po_project\include\utils.h
+	<iostream>
+	<iomanip>
+
+1639055937 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\main.cpp
+	<iostream>
+	"./include/Book.h"
+	"./include/Library.h"
+	"./include/User.h"
+	"./include/RegularUser.h"
+	"./include/PremiumUser.h"
+	"./include/date.h"
+	"./include/Menu.h"
+	"./include/utils.h"
+
+1637844089 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\book.h
+	<iostream>
+
+1638664036 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\library.h
+	<iostream>
+	<vector>
+	<map>
+	"./PremiumUser.h"
+	"./RegularUser.h"
+	"./Book.h"
+	"./User.h"
+
+1639055658 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\premiumuser.h
+	<iostream>
+	"./User.h"
+	"./Library.h"
+
+1639055907 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\user.h
+	<iostream>
+	<vector>
+	"./BorrowedBook.h"
+
+1637969187 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\borrowedbook.h
+	"./Book.h"
+	"./date.h"
+
+1637369020 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\date.h
+	<cassert>
+	<algorithm>
+	<cctype>
+	<chrono>
+	<climits>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<ctime>
+	<ios>
+	<istream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<ostream>
+	<ratio>
+	<sstream>
+	<stdexcept>
+	<string>
+	<string_view>
+	<utility>
+	<type_traits>
+
+1639054952 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\regularuser.h
+	<iostream>
+	"./User.h"
+	"./Book.h"
+	"./Library.h"
+	"./date.h"
+
+1638662501 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\menu.h
+	<iostream>
+	"./Book.h"
+	"./Library.h"
+	"./User.h"
+	"./RegularUser.h"
+	"./PremiumUser.h"
+	"./date.h"
+	"./Menu.h"
+	"./utils.h"
+	"windows.h"
+	<conio.h>
+
+1637795141 c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\include\utils.h
+	<iostream>
+	<iomanip>
+
+1637963869 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\src\book.cpp
+	"Book.h"
+	<iostream>
+
+1637969207 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\src\borrowedbook.cpp
+	"BorrowedBook.h"
+	"Book.h"
+
+1637972016 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\src\library.cpp
+	"Library.h"
+	<iostream>
+
+1638664797 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\src\menu.cpp
+	"Menu.h"
+
+1639055687 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\src\premiumuser.cpp
+	"PremiumUser.h"
+
+1639055161 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\src\regularuser.cpp
+	"RegularUser.h"
+
+1639055046 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\src\user.cpp
+	"User.h"
+
+1637972794 source:c:\users\lukas\desktop\wyk³ady iii sem\programowanie obiektowe\po_project\src\utils.cpp
+	"utils.h"
+

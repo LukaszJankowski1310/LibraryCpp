@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\RegularUser.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="392" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\User.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="342" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Book.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="536" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="475" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Menu.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="769" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="src\Library.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1878" topLine="47" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="16" />
+			<Collapse line="25" />
+			<Collapse line="61" />
+			<Collapse line="74" />
+			<Collapse line="87" />
+			<Collapse line="117" />
+			<Collapse line="123" />
+		</Folding>
+	</File>
+	<File name="src\RegularUser.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Book.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="223" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\BorrowedBook.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="604" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\BorrowedBook.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="501" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Menu.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8623" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Library.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1006" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\utils.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="149" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\User.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="197" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\date.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="204865" topLine="105" />
+		</Cursor>
+	</File>
+	<File name="src\PremiumUser.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1391" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="include\PremiumUser.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="459" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\utils.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="495" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
